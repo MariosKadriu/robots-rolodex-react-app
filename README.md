@@ -1,3 +1,5 @@
+This is my first React JS app I have ever created to practice my basics skills (Class and Functional Components, State). Live preview : https://marioskadriu.github.io/robots-rolodex-react-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
