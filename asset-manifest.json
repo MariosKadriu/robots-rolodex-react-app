@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robots-rolodex-react-app/static/css/main.8b614e66.chunk.css",
+    "main.js": "/robots-rolodex-react-app/static/js/main.b5411575.chunk.js",
+    "main.js.map": "/robots-rolodex-react-app/static/js/main.b5411575.chunk.js.map",
+    "runtime-main.js": "/robots-rolodex-react-app/static/js/runtime-main.3892aaad.js",
+    "runtime-main.js.map": "/robots-rolodex-react-app/static/js/runtime-main.3892aaad.js.map",
+    "static/js/2.5d1db3de.chunk.js": "/robots-rolodex-react-app/static/js/2.5d1db3de.chunk.js",
+    "static/js/2.5d1db3de.chunk.js.map": "/robots-rolodex-react-app/static/js/2.5d1db3de.chunk.js.map",
+    "static/js/3.9db938e1.chunk.js": "/robots-rolodex-react-app/static/js/3.9db938e1.chunk.js",
+    "static/js/3.9db938e1.chunk.js.map": "/robots-rolodex-react-app/static/js/3.9db938e1.chunk.js.map",
+    "index.html": "/robots-rolodex-react-app/index.html",
+    "static/css/main.8b614e66.chunk.css.map": "/robots-rolodex-react-app/static/css/main.8b614e66.chunk.css.map",
+    "static/js/2.5d1db3de.chunk.js.LICENSE.txt": "/robots-rolodex-react-app/static/js/2.5d1db3de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3892aaad.js",
+    "static/js/2.5d1db3de.chunk.js",
+    "static/css/main.8b614e66.chunk.css",
+    "static/js/main.b5411575.chunk.js"
+  ]
+}
